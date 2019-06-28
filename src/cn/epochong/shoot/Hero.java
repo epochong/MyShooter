@@ -1,7 +1,10 @@
 package cn.epochong.shoot;
 
+<<<<<<< HEAD
 import java.awt.image.BufferedImage;
 
+=======
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 /**
  * @author wangchong
  * @date 2019/6/25 10:01
@@ -14,11 +17,19 @@ public class Hero extends FlyingObject{
     /**
      * 生命
      */
+<<<<<<< HEAD
     private int life;
     /**
      * 火力值
      */
     private int doubleFire;
+=======
+    int life;
+    /**
+     * 火力值
+     */
+    int doubleFire;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 
     public Hero() {
         super(97,139,140,400);
@@ -43,6 +54,7 @@ public class Hero extends FlyingObject{
      * 英雄机切换图片
      */
     @Override
+<<<<<<< HEAD
     public void step() {
         System.out.println("英雄机切换了图片");
     }
@@ -61,5 +73,25 @@ public class Hero extends FlyingObject{
         }
         return null;
 
+=======
+    void step() {
+        System.out.println("英雄机切换了图片");
+    }
+
+    public int getLife() {
+        return life;
+    }
+
+    public void setLife(int life) {
+        this.life = life;
+    }
+
+    public int getDoubleFire() {
+        return doubleFire;
+    }
+
+    public void setDoubleFire(int doubleFire) {
+        this.doubleFire = doubleFire;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     }
 }

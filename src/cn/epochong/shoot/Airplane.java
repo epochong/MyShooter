@@ -1,6 +1,10 @@
 package cn.epochong.shoot;
 
+<<<<<<< HEAD
 import java.awt.image.BufferedImage;
+=======
+import java.util.Random;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 
 /**
  * @author wangchong
@@ -14,7 +18,11 @@ public class Airplane extends FlyingObject{
     /**
      * 移动速度
      */
+<<<<<<< HEAD
     private int speed;
+=======
+    int speed;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 
     public Airplane() {
         super(48,50);
@@ -25,6 +33,7 @@ public class Airplane extends FlyingObject{
      * 小敌机移动
      */
     @Override
+<<<<<<< HEAD
     public void step() {
         System.out.println("小敌机的y坐标向下移动了," + speed);
     }
@@ -55,4 +64,9 @@ public class Airplane extends FlyingObject{
          */
         return null;
     }
+=======
+    void step() {
+        System.out.println("小敌机的y坐标向下移动了," + speed);
+    }
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 }

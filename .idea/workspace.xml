@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bf5d4133-064e-4aa8-ab2e-4bcddcacc0cf" name="Default" comment="" />
+=======
+    <list default="true" id="47d5c897-ce75-436b-b1fe-7a2d8428a953" name="Default" comment="" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="Bee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -19,29 +24,75 @@
               <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+              <folding>
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="BigAirplane.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
               <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+=======
+      <file leaf-file-name="Airplane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Airplane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+              <folding>
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Airplane.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Airplane.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+=======
+      <file leaf-file-name="BigAirplane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+              <folding>
+                <element signature="docComment;class#BigAirplane#0" />
+                <element signature="docComment;field#speed#0;class#BigAirplane#0" />
+                <element signature="method#BigAirplane#0;class#BigAirplane#0" />
+                <element signature="docComment;method#step#0;class#BigAirplane#0" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+              </folding>
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="FlyingObject.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/FlyingObject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,16 +102,34 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#2111#2112#0" expanded="true" />
                 <element signature="e#2181#2182#0" expanded="true" />
+=======
+      <file leaf-file-name="Bee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding>
+                <element signature="e#1530#1531#0" expanded="true" />
+                <element signature="e#1566#1567#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
               <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+=======
+      <file leaf-file-name="Bullet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
             </state>
           </provider>
         </entry>
@@ -68,6 +137,7 @@
       <file leaf-file-name="Sky.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="550">
               <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
               <folding>
@@ -76,11 +146,19 @@
                 <element signature="docComment;method#step#0;class#Sky#0" />
                 <element signature="e#632#633#0" expanded="true" />
                 <element signature="e#672#673#0" expanded="true" />
+=======
+            <state relative-caret-position="322">
+              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+              <folding>
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="World.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/World.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +168,21 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#2346#2489#0" expanded="true" />
                 <element signature="e#2488#2489#0" expanded="true" />
+=======
+      <file leaf-file-name="World.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Images.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Images.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,6 +190,86 @@
               <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="JAVA/cn.epochong.shoot" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/cn.epochong.shoot">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>cn.epochong.shoot</OriginalElement>
+              <nodes>
+                <node x="162.0" y="312.0">cn.epochong.shoot.Bullet</node>
+                <node x="1028.0" y="312.0">cn.epochong.shoot.BigAirplane</node>
+                <node x="400.75" y="0.0">cn.epochong.shoot.FlyingObject</node>
+                <node x="0.0" y="741.0">cn.epochong.shoot.World</node>
+                <node x="380.0" y="411.0">cn.epochong.shoot.Sky</node>
+                <node x="541.0" y="246.0">cn.epochong.shoot.Bee</node>
+                <node x="781.0" y="356.0">cn.epochong.shoot.Hero</node>
+                <node x="0.0" y="422.0">cn.epochong.shoot.Airplane</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="cn.epochong.shoot.Sky" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-60.0" />
+                  <point x="450.5" y="226.0" />
+                  <point x="525.75" y="226.0" />
+                  <point x="-25.0" y="93.0" />
+                </edge>
+                <edge source="cn.epochong.shoot.Hero" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-115.0" />
+                  <point x="894.5" y="216.0" />
+                  <point x="625.75" y="216.0" />
+                  <point x="75.0" y="93.0" />
+                </edge>
+                <edge source="cn.epochong.shoot.Bee" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-225.0" />
+                  <point x="651.0" y="226.0" />
+                  <point x="575.75" y="226.0" />
+                  <point x="25.0" y="93.0" />
+                </edge>
+                <edge source="cn.epochong.shoot.Bullet" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-159.0" />
+                  <point x="261.0" y="216.0" />
+                  <point x="475.75" y="216.0" />
+                  <point x="-75.0" y="93.0" />
+                </edge>
+                <edge source="cn.epochong.shoot.Airplane" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-49.0" />
+                  <point x="71.0" y="206.0" />
+                  <point x="425.75" y="206.0" />
+                  <point x="-125.0" y="93.0" />
+                </edge>
+                <edge source="cn.epochong.shoot.BigAirplane" target="cn.epochong.shoot.FlyingObject">
+                  <point x="0.0" y="-159.0" />
+                  <point x="1127.0" y="206.0" />
+                  <point x="675.75" y="206.0" />
+                  <point x="125.0" y="93.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6653679653679655" x="107.1431692666174" y="460.7026675341574" />
+              <SelectedNodes>
+                <node>cn.epochong.shoot.Airplane</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlyingObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/FlyingObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+              <folding>
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               </folding>
             </state>
           </provider>
@@ -116,6 +284,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>paint</find>
@@ -133,6 +302,19 @@
         <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java" />
         <option value="$PROJECT_DIR$/src/cn/epochong/shoot/World.java" />
         <option value="$PROJECT_DIR$/src/cn/epochong/shoot/FlyingObject.java" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/FlyingObject.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Airplane.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java" />
+        <option value="$PROJECT_DIR$/src/cn/epochong/shoot/World.java" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
       </list>
     </option>
   </component>
@@ -146,6 +328,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1050" />
@@ -186,10 +369,24 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+    <option name="x" value="795" />
+    <option name="y" value="65" />
+    <option name="width" value="915" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="My_Shooter" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_Shooter" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -201,19 +398,42 @@
             <path>
               <item name="My_Shooter" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_Shooter" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="MyShooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyShooter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyShooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyShooter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyShooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyShooter" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="My_Shooter" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_Shooter" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="MyShooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyShooter" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="epochong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="My_Shooter" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_Shooter" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="MyShooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyShooter" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="epochong" type="462c0819:PsiDirectoryNode" />
@@ -223,11 +443,17 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,6 +463,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Program\Java\IDEA\My_Shooter\src\cn\epochong\shoot" />
     </key>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shooter" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,6 +546,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="bf5d4133-064e-4aa8-ab2e-4bcddcacc0cf" name="Default" comment="" />
       <created>1561599188310</created>
       <option name="number" value="Default" />
@@ -322,16 +555,30 @@
       <workItem from="1561599195021" duration="8884000" />
       <workItem from="1561646539393" duration="2004000" />
       <workItem from="1561683081874" duration="10291000" />
+=======
+      <changelist id="47d5c897-ce75-436b-b1fe-7a2d8428a953" name="Default" comment="" />
+      <created>1561427928809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561427928809</updated>
+      <workItem from="1561427931689" duration="6720000" />
+      <workItem from="1561511839046" duration="8543000" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21179000" />
+=======
+    <option name="totallyTimeSpent" value="15263000" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Messages" order="4" />
@@ -360,6 +607,36 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+=======
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32777777" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16398929" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +646,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -434,20 +712,47 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2346#2489#0" expanded="true" />
             <element signature="e#2488#2489#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Images.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Airplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -458,20 +763,42 @@
             <element signature="docComment;method#step#0;class#Sky#0" />
             <element signature="e#632#633#0" expanded="true" />
             <element signature="e#672#673#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;class#BigAirplane#0" />
+            <element signature="docComment;field#speed#0;class#BigAirplane#0" />
+            <element signature="method#BigAirplane#0;class#BigAirplane#0" />
+            <element signature="docComment;method#step#0;class#BigAirplane#0" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1500">
           <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -501,10 +828,27 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2111#2112#0" expanded="true" />
             <element signature="e#2181#2182#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -523,12 +867,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="96" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="96" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
@@ -570,10 +921,27 @@
           <caret line="184" column="36" selection-start-line="184" selection-start-column="36" selection-end-line="184" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="385" column="32" selection-start-line="385" selection-start-column="27" selection-end-line="385" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/FlyingObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -590,10 +958,20 @@
             <element signature="e#56005#56006#0" expanded="true" />
             <element signature="e#114480#114481#0" expanded="true" />
             <element signature="e#114527#114528#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -602,11 +980,18 @@
             <element signature="e#35456#35457#0" expanded="true" />
             <element signature="e#35491#35492#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/BigAirplane.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="148">
           <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
         </state>
@@ -625,29 +1010,67 @@
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+        <state relative-caret-position="322">
+          <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+          <folding>
+            <element signature="docComment;class#BigAirplane#0" />
+            <element signature="docComment;field#speed#0;class#BigAirplane#0" />
+            <element signature="method#BigAirplane#0;class#BigAirplane#0" />
+            <element signature="docComment;method#step#0;class#BigAirplane#0" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Images.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Airplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="575">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+=======
+        <state relative-caret-position="345">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+          </folding>
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/Sky.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="550">
           <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
           <folding>
@@ -656,10 +1079,18 @@
             <element signature="docComment;method#step#0;class#Sky#0" />
             <element signature="e#632#633#0" expanded="true" />
             <element signature="e#672#673#0" expanded="true" />
+=======
+        <state relative-caret-position="322">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/World.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -680,6 +1111,120 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2111#2112#0" expanded="true" />
             <element signature="e#2181#2182#0" expanded="true" />
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.epochong.shoot">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.epochong.shoot</OriginalElement>
+          <nodes>
+            <node x="162.0" y="312.0">cn.epochong.shoot.Bullet</node>
+            <node x="1028.0" y="312.0">cn.epochong.shoot.BigAirplane</node>
+            <node x="400.75" y="0.0">cn.epochong.shoot.FlyingObject</node>
+            <node x="0.0" y="741.0">cn.epochong.shoot.World</node>
+            <node x="380.0" y="411.0">cn.epochong.shoot.Sky</node>
+            <node x="541.0" y="246.0">cn.epochong.shoot.Bee</node>
+            <node x="781.0" y="356.0">cn.epochong.shoot.Hero</node>
+            <node x="0.0" y="422.0">cn.epochong.shoot.Airplane</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.epochong.shoot.Sky" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-60.0" />
+              <point x="450.5" y="226.0" />
+              <point x="525.75" y="226.0" />
+              <point x="-25.0" y="93.0" />
+            </edge>
+            <edge source="cn.epochong.shoot.Hero" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-115.0" />
+              <point x="894.5" y="216.0" />
+              <point x="625.75" y="216.0" />
+              <point x="75.0" y="93.0" />
+            </edge>
+            <edge source="cn.epochong.shoot.Bee" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-225.0" />
+              <point x="651.0" y="226.0" />
+              <point x="575.75" y="226.0" />
+              <point x="25.0" y="93.0" />
+            </edge>
+            <edge source="cn.epochong.shoot.Bullet" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-159.0" />
+              <point x="261.0" y="216.0" />
+              <point x="475.75" y="216.0" />
+              <point x="-75.0" y="93.0" />
+            </edge>
+            <edge source="cn.epochong.shoot.Airplane" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-49.0" />
+              <point x="71.0" y="206.0" />
+              <point x="425.75" y="206.0" />
+              <point x="-125.0" y="93.0" />
+            </edge>
+            <edge source="cn.epochong.shoot.BigAirplane" target="cn.epochong.shoot.FlyingObject">
+              <point x="0.0" y="-159.0" />
+              <point x="1127.0" y="206.0" />
+              <point x="675.75" y="206.0" />
+              <point x="125.0" y="93.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6653679653679655" x="107.1431692666174" y="460.7026675341574" />
+          <SelectedNodes>
+            <node>cn.epochong.shoot.Airplane</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.epochong.shoot.World">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.epochong.shoot.World</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.swing.JComponent</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">cn.epochong.shoot.World</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">javax.swing.JPanel</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8212702809655718" x="564.3055086813579" y="19033.7895776616" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/epochong/shoot/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
           </folding>
         </state>
       </provider>

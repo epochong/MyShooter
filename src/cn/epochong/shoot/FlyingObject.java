@@ -1,7 +1,10 @@
 package cn.epochong.shoot;
 
+<<<<<<< HEAD
 import java.awt.*;
 import java.awt.image.BufferedImage;
+=======
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 import java.util.Random;
 
 /**
@@ -9,6 +12,7 @@ import java.util.Random;
  * @date 2019/6/26 9:31
  * @email 876459397@qq.com
  * @blog epochong.github.io
+<<<<<<< HEAD
  * @describe 飞行抽象类
  */
 public abstract class FlyingObject {
@@ -47,6 +51,29 @@ public abstract class FlyingObject {
      * 对象在窗口的纵坐标
      */
     protected int y;
+=======
+ * @describe
+ */
+public class FlyingObject {
+
+    /**
+     * 高
+     */
+    int height;
+
+    /**
+     * 宽
+     */
+    int width;
+    /**
+     * 横坐标
+     */
+    int x;
+    /**
+     * 纵坐标
+     */
+    int y;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 
     /**
      * 敌机的构造方法
@@ -60,10 +87,16 @@ public abstract class FlyingObject {
         /**
          * x坐标为(窗口宽度 - 敌人的的宽度)之间的随机数
          */
+<<<<<<< HEAD
         x = random.nextInt(World.FRAME_WIDTH - this.width);
         //负的敌人的高
         y = this.height;
         y = 0;
+=======
+        x = random.nextInt(400 - this.width);
+        //负的敌人的高
+        y = -this.height;
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
     }
 
     /**
@@ -73,7 +106,11 @@ public abstract class FlyingObject {
      * @param x x坐标
      * @param y y坐标
      */
+<<<<<<< HEAD
     public FlyingObject(int width, int height, int x, int y) {
+=======
+    public FlyingObject(int height, int width, int x, int y) {
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
         this.height = height;
         this.width = width;
         this.x = x;
@@ -82,6 +119,7 @@ public abstract class FlyingObject {
 
     /**
      * 移动速度
+<<<<<<< HEAD
      * 此处写public访问权限后,子类访问权限必须大于超类的访问权限
      * 默认为default
      */
@@ -119,4 +157,11 @@ public abstract class FlyingObject {
         graphics.drawImage(this.getImage(),this.x,this.y,null);
     }
 
+=======
+     */
+
+    void step() {
+        System.out.println("飞行物移动");
+    }
+>>>>>>> 39406e3236669481cae0bfa1cc325eb0f540c8dc
 }
